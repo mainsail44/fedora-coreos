@@ -1,0 +1,7 @@
+variant: fcos
+version: 1.4.0
+passwd:
+  users:
+    - name: core
+      ssh_authorized_keys:
+        - ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQDIRAtYOuv3bJGQo7ggc/erWIpqNQdCXYIIyXvuxsXnYyhv5IOqiLSUBztptZt7Bg4tYwwr9MM6+UZePDyfyCKaotyvdbJfa/fo53MH8379ExvL1AspBs652wJm2kjr56n8xlS9+AZtv0mjglCQTqINMpAU9OF+7nbyFM6uwLSaUoZ8ZqPZPilIxLBIdeghk8ij0iAcKgKmRaU77Lj/gdgWvLnLA65vChBD3UFWMTLGZVjZBdLUTzKTmzDqsg6PnJr7tj/V260J95gTTYa+3kFopfkB9NffyuxXcsemAOhuHBsjDhEjHZZXssSSFnPwg+Lch7ktAN9uvlardbltum54uGDo3kMkjko36zAszVVaHZ5Uk2Jwe+4DA+9sQvveCbHQeUi+wKi7+46RifvfcQnlMg5saBMiO/TmibwDLtSVDJASSx374O/Iy7ESG+UACudcrGEzY6xAKAudHDkOmbBnOsGokCYi8Imun2QvnIgMoLNNN4T+EQgxB87nqsyXibc= dischord01@dischord01s-iMac.local
